@@ -8,7 +8,8 @@
 
 <h1>Initial v1</h1>
 <p>First initial v1<p>
-
+<div><img src="cover11.jpg" alt="Hello"
+style="width:100%;max-width:960px"></div>
 
 
 </body>
